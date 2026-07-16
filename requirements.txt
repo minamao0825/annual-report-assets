@@ -1,6 +1,10 @@
 streamlit
-pdfplumber
-PyMuPDF
 pandas
 openpyxl
+pdfplumber
+PyMuPDF
 openai
+requests
+beautifulsoup4
+plotly
+python-pptx
